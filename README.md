@@ -4,7 +4,7 @@ Data set for paper "Deng Z, Xu L, Liu H, Hu X, Duan Z, Xu Y. Prognostics of batt
 The charging data of battery packs for 20 commercial electric vehicles are contributed to be publically avaiable. 
 Each #x represents the data of a vehicle, and the time span of the data is over two years, around 29 months.
 
-'The codes for capacity extraction and visualization have been uploaded.'
+`The codes for capacity extraction and visualization have been uploaded.`
 
 If you use this data set to do other researches, you need to cite this paper.
 
