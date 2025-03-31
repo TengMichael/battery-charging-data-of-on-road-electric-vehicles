@@ -6,6 +6,10 @@ Each #x represents the data of a vehicle, and the time span of the data is over 
 
 `The codes for capacity extraction and visualization have been uploaded.`
 
+# battery pack information update
+The vehicles are BAIC EU500, equipped with CATL NCM batteries. 
+The nominal capacity is 145Ah, and there are 90 battery cells connected in series and 32 temperature sensors inside the pack.
+
 If you use this data set to do other researches, you need to cite this paper.
 
 The Supplementary materials of the paper:
